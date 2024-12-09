@@ -1,8 +1,8 @@
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
 
-  <img src="https://raw.githubusercontent.com/sydneybg6/sydneybg6.github.io/main/Gallery/recordgoldstein.png" alt="Image 1" width="400" height="350">
-  <img src="https://raw.githubusercontent.com/sydneybg6/sydneybg6.github.io/main/Gallery/synagoguegoldstein.png" alt="Image 2" width="400" height="350">
-  <img src="https://raw.githubusercontent.com/sydneybg6/sydneybg6.github.io/main/Gallery/umpiregoldstein.png" alt="Image 3" width="400" height="350">
+  <img src="https://raw.githubusercontent.com/sydneybg6/sydneybg6.github.io/main/Gallery/recordgoldstein.png" alt="Image 1" width="600" height="550">
+  <img src="https://raw.githubusercontent.com/sydneybg6/sydneybg6.github.io/main/Gallery/synagoguegoldstein.png" alt="Image 2" width="600" height="550">
+  <img src="https://raw.githubusercontent.com/sydneybg6/sydneybg6.github.io/main/Gallery/umpiregoldstein.png" alt="Image 3" width="600" height="550">
   
   </div>
   
