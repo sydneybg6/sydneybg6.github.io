@@ -1,4 +1,5 @@
 Link to [My About Page](about.md) 
+
 Link to [My Course Photo Gallery](Images.md)
 
 When I started this course, I assumed that digital humanities focused solely on using technology to understand and study literature. However, as the semester went on, I realized that it doesn’t necessarily have one focus; it is a highly interdisciplinary field. It involves using technology to uncover stories, analyze data, and explore a variety of areas, including history, culture, and art. Through our two main projects, Printing in Prisons and the Education Commons project, I have learned how to engage with archives and history, while discovering creative ways to interpret and present them. These experiences have helped me to understand the crucial role digital tools play in bringing past data to the present time in an accessible way. 
